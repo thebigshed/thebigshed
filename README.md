@@ -1,5 +1,5 @@
 Hello,
-This repo is for the bit I have been playing with as I explore and learn.
+This repo is for the bits of software I have been playing with as I explore and learn.
 
 I would love to say there is a big plan to where it is going but it is just about what takes my fancy.
 
